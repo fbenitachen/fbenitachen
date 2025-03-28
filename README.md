@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Felice
+## 👋 Hey everyone, I'm Felice®™
 ### 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
 
 ### 🔭 Currently working on:
