@@ -17,4 +17,5 @@
 Email: felice.benitaht@gmail.com
 
 ### Some Fun Facts about me:
-
+- I have a background in IT and enjoy about math and physics.
+- I love exploring art and design and also love beauty.
