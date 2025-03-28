@@ -14,9 +14,12 @@
 - Research initiatives related to legal aspects of AI and the ethical implications of AI technologies.
 
 ###  💬 Ask me about:
-Data Science, AI solutions, and machine learning techniques.
-Legal aspects of computer science and AI, including IP and blockchain-related laws.
-NLP applications, sentiment analysis, and information extraction.
+- Data Science, AI solutions, and machine learning techniques.
+- Legal aspects of computer science and AI, including IP and blockchain-related laws.
+- NLP applications, sentiment analysis, and information extraction.
 
 ### 📫 How to reach me:
 Email: felice.benitaht@gmail.com
+
+### Some Fun Facts about me:
+
