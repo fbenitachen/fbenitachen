@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm Felice
-## 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
+### 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
 
 ### 🔭 Currently working on:
 - Developing cutting-edge AI applications using generative models like OpenAI GPT3/4, Gemini, llama/llama2, Nvidia Megatron, Bloom, and more.
