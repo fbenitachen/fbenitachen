@@ -14,7 +14,8 @@
 - Sentiment analysis and Business Intelligence.
 
 ### 📫 How to reach me:
-Email: felice.benitaht@gmail.com / felicebenita0099@gmail.com
+- LinkedIn: [Felice Benita](https://www.linkedin.com/in/felicebenita)
+- Email: felice.benitaht@gmail.com / felicebenita0099@gmail.com
 
 ### Some Fun Facts about me:
 - I have a background in IT and enjoy about math and physics.
