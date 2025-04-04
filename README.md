@@ -17,7 +17,7 @@
 - LinkedIn: [Felice Benita](https://www.linkedin.com/in/felicebenita)
 - Email: felice.benitaht@gmail.com / felicebenita0099@gmail.com
 
-### 💡 Some Fun Facts about me:
+### 🎧 Some Fun Facts about me:
 - I have a background in IT and enjoy about math and physics.
 - I love exploring art and design and also love beauty.
 
