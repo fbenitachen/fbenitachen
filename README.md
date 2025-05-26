@@ -10,7 +10,7 @@
 - ML projects involving NLP, recommendation engines, social media analysis, and other AI applications.
 
 ###  💬 Ask me about:
-- Data Science, programming techniques, and machine learning techniques.
+- Database & SQL, Data Science, programming techniques, and machine learning techniques.
 - Sentiment analysis and Business Intelligence.
 
 ### 📫 How to reach me:
