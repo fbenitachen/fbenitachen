@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me:
 - LinkedIn: [Felice Benita](https://www.linkedin.com/in/felicebenita)
-- Email: felice.benitaht@gmail.com / felicebenita0099@gmail.com
+- Email: felice.benitaht@gmail.com / felice.benitahtan@gmail.com
 
 ### 🌠 Some Fun Facts about me:
 - I have a background in IT and enjoy about math and physics.
