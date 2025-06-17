@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Felice®™
+## 👋 Hey, I'm Felice Benita®™
 ### 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
 
 🌞 Hi, I'm a multi-talented personality in the tech. I've worked in the technology space and I have a tonne of experience in software developer, digital marketing, Data and AI and Business Intelligence.
