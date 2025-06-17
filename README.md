@@ -1,7 +1,8 @@
-## 👋 Hey everyone, I'm Felice®™
+## 👋 Hey, I'm Felice®™
 ### 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
 
 🌞 Hi, I'm a multi-talented personality in the tech. I've worked in the technology space and I have a tonne of experience in software developer, digital marketing, Data and AI and Business Intelligence.
+And currently I play a role as IT Systems & Data Analyst at PT. Erlangga Edi Laboratories (Erela).
   
 ### 🌱 Currently learning:
 - Keeping up with the latest advancements in machine learning and natural language processing, Amazon Web Services (AWS) for AI/ML development.
