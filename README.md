@@ -4,7 +4,7 @@
 🌞 Hi, I'm a multi-talented personality in the tech. I've worked in the technology space and I have a tonne of experience in software developer, digital marketing, Data and AI and Business Intelligence.
   
 ### 🌱 Currently learning:
-- Keeping up with the latest advancements in machine learning and natural language processing.
+- Keeping up with the latest advancements in machine learning and natural language processing, Amazon Web Services (AWS) for AI/ML development.
 
 ### 👯 Looking to collaborate on:
 - ML projects involving NLP, recommendation engines, social media analysis, and other AI applications.
