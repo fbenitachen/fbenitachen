@@ -1,18 +1,18 @@
 ## 👋 Hey, I'm Felice Benita®™
-### 👩🏻‍💻 Data Scientist | Business Intelligence | Software Engineer
+### 👩🏻‍💻 Data Intelligence Specialist | Business Intelligence | Software Engineer
 
-🌞 Hi, I'm a multi-talented personality in tech. I've worked in the technology space and I have a tonne of experience in software development, digital marketing, Data and AI, and Business Intelligence.
+🌞 Hi, I'm a multi-talented personality in tech. I've worked in the technology space and I have a tonne of experience in software development, IT system analysis, digital marketing, Data and AI, and Business Intelligence.
 
 #### 📌 And currently, I play a role as an IT Systems & Data Analyst at PT. Erlangga Edi Laboratories (Erela).
   
 ### 🌱 Currently learning:
-- Keeping up with the latest advancements in machine learning and natural language processing, Amazon Web Services (AWS) for AI/ML development.
+- Keeping up with the latest advancements in machine learning and natural language processing, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
-- ML projects involving NLP, recommendation engines, social media analysis, and other AI applications.
+- BI projects involving financial analysis, business analysis, and data architecture.
 
 ###  💬 Ask me about:
-- Databases & SQL, Data Science, programming techniques, and machine learning techniques.
+- Databases & SQL, data analysis, programming techniques, Python, and machine learning techniques.
 - Sentiment analysis and Business Intelligence.
 
 ### 📫 How to reach me:
