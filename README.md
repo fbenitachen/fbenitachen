@@ -13,7 +13,7 @@
 
 ###  💬 Ask me about:
 - Databases & SQL, data analysis, programming techniques, Python, and machine learning techniques.
-- Sentiment analysis and Business Intelligence.
+- Business Intelligence and Sentiment analysis.
 
 ### 📫 How to reach me:
 - LinkedIn: [Felice Benita](https://www.linkedin.com/in/felicebenita)
