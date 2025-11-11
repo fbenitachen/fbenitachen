@@ -9,7 +9,7 @@
 - Keeping up with the latest advancements in machine learning and natural language processing, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
-- BI projects involving financial analysis, business analysis, and data architecture.
+- BI dan Data projects involving financial analysis, financial modeling, business analysis, and data architecture.
 
 ###  💬 Ask me about:
 - Databases & SQL, data analysis, programming techniques, Python, and machine learning techniques.
