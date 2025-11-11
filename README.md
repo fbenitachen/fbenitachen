@@ -12,7 +12,7 @@
 - BI dan Data projects involving financial analysis, financial modeling, business analysis, and data architecture.
 
 ###  💬 Ask me about:
-- Databases & SQL, data analysis, programming techniques, Python, and machine learning techniques.
+- Databases & SQL, data analysis, programming techniques, Python programming, and data architecture.
 - Business Intelligence and Sentiment analysis.
 
 ### 📫 How to reach me:
