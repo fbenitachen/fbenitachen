@@ -6,7 +6,7 @@
 #### 📌 And currently, I play a role as an IT Systems & Data Analyst at PT. Erlangga Edi Laboratories (Erela).
   
 ### 🌱 Currently learning:
-- Keeping up with the latest advancements in Business Intelligence, Business Analysis, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
+- Keeping up with the latest advancements in NLP, Business Intelligence, Business Analysis, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
 - BI dan Data projects involving financial analysis, financial modeling, business analysis, and data architecture.
