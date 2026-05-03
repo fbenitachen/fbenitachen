@@ -2,8 +2,6 @@
 ### 👩🏻‍💻 Data Intelligence Specialist | Business Intelligence | Software Engineer
 
 🌞 Hi, I'm a multi-talented personality in tech. I've worked in the technology space and I have a tonne of experience in software development, IT system analysis, digital marketing, Data and AI, and Business Intelligence.
-
-#### 📌 And currently, I play a role as an IT Systems & Data Analyst at PT. Erlangga Edi Laboratories (Erela).
   
 ### 🌱 Currently learning:
 - Keeping up with the latest advancements in Business Intelligence, Business Analysis, NLP, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
