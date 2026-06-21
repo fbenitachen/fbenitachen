@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Felice Benita®™
-### 👩🏻‍💻 Data Intelligence Specialist | Business Intelligence | Software Engineer
+### 👩🏻‍💻 Data Intelligence Specialist | Data Governance | Software Engineer
 
 🌞 Hi, I'm a multi-talented personality in tech. I've worked in the technology space and I have a tonne of experience in software development, IT system analysis, digital marketing, Data and AI, and Business Intelligence.
   
 ### 🌱 Currently learning:
-- Keeping up with the latest advancements in Business Intelligence, Business Analysis, NLP, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
+- Keeping up with the latest advancements in Data Governance, Business Intelligence, Business Analysis, NLP, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
 - BI dan Data projects involving financial analysis, financial modeling, business analysis, data architecture, and NLP.
