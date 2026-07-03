@@ -7,11 +7,11 @@
 - Keeping up with the latest advancements in Data Governance, Business Intelligence, Business Analysis, NLP, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
-- BI dan Data projects involving financial analysis, financial modeling, business analysis, data architecture, and NLP.
+- BI dan Data projects involving data governance, financial analysis, business analysis, and data architecture.
 
 ###  💬 Ask me about:
 - Databases & SQL, data analysis, programming techniques, Python programming, and data architecture.
-- Business Intelligence and Sentiment analysis.
+- Data Governance and Business Intelligence.
 
 ### 📫 How to reach me:
 - LinkedIn: [Felice Benita](https://www.linkedin.com/in/felicebenita)
