@@ -7,7 +7,7 @@
 - Keeping up with the latest advancements in Data Governance, IT Business Analysis, Business Intelligence, NLP, Prompt Engineering, Amazon Web Services (AWS) for AI/ML development, and Six Sigma.
 
 ### 👯 Looking to collaborate on:
-- BI dan Data projects involving data governance, financial analysis, business analysis, and data architecture.
+- BI dan Data projects involving data governance, financial analysis, IT business analysis, and data architecture.
 
 ###  💬 Ask me about:
 - Databases & SQL, data analysis, programming techniques, Python programming, and data architecture.
