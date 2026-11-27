@@ -23,6 +23,6 @@
 
 ### 🎙️ Resources:
 The resources I created: about graph coloring in Python and how to detect outliers.
-- [Graph Coloring in Python](https://github.com/fbenitachen/pdf-documentation/blob/main/Graph_Coloring_in_Python_Felice.pdf) - We can color the graph in Python freely as you wish, different from the templates by using colors in HTML code.
-- [Detecting Outliers](https://github.com/fbenitachen/pdf-documentation/blob/main/Detecting_Outliers_Felice.pdf) - Detecting outliers in Python using visualization and statistics.
+- [Graph Coloring in Python](https://github.com/fbenitachen/fbenitachen.github.io/blob/main/Graph_Coloring_in_Python_Felice.pdf) - We can color the graph in Python freely as you wish, different from the templates by using colors in HTML code.
+- [Detecting Outliers](https://github.com/fbenitachen/fbenitachen.github.io/blob/main/Detecting_Outliers_Felice.pdf) - Detecting outliers in Python using visualization and statistics.
 - [Standard Scaler](https://www.linkedin.com/pulse/standard-scaler-felice-benita-1xhwc/?trackingId=8v%2BDU%2FRkkhHeoP5tfBxJ8w%3D%3D) - About StandardScaler and its use in Machine Learning.
